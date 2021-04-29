@@ -4,9 +4,18 @@ header {
     .logo {
         font-weight: bold;
     }
+    .nav1{
+        border-radius: 100px;
+        background-color: yellow;
+        size: 0.5em;
+        text-align: center;
+        color: black;
+    
+    }
 
     nav {
         justify-self: right;
+        
     
         ul {
             list-style-type: none;

@@ -1,0 +1,11 @@
+
+.com1{
+    text-align: left;
+    color: white;
+}
+.img{      
+    margin:6px 6px;      
+    border: 4px solid #eee;      
+    box-shadow:rgb(224, 199, 199) 1px 1px 8px 1px;      
+    cursor: pointer      
+       }
